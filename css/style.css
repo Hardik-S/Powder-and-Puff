@@ -3,7 +3,7 @@
 @import url('fonts/DancingScript-VariableFont_wght.ttf');
 
 body {
-  background: #F2dae1;
+  background: #ffffff;
   /* main font here:  */
   /* font-family: 'Source Sans Pro', sans-serif; */
   /* font-family: 'Dancing Script', cursive; */
@@ -86,8 +86,8 @@ p {
   -webkit-perspective: 1000px;
   -moz-perspective: 1000px;
   perspective: 1000px;
-  color: #F2dae1;
-  border-color: #F2dae1;
+  color: #ffffff;
+  border-color: #ffffff;
   font-weight: normal;
 }
 
@@ -99,8 +99,8 @@ p {
   font-weight: normal;
   letter-spacing: 0.5px;
   padding: 0 25px;
-  background: #f74545;
-  border-color: #F2dae1;
+  background: #F8e0d3;
+  border-color: #ffffff;
   border-radius: 10px;
   -webkit-transition: -webkit-transform 0.3s;
   -moz-transition: -moz-transform 0.3s;
@@ -164,7 +164,7 @@ html{
 }
 
 a {
-  color: #f74545;
+  color: #F8e0d3;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -208,7 +208,7 @@ a:hover, a:active, a:focus {
 #about, #project,
 #team, #contact, footer {
   /* main background color */
-  background: #F2dae1;
+  background: #ffffff;
 }
 
 #about,
@@ -274,12 +274,12 @@ a:hover, a:active, a:focus {
 
 .custom-navbar {
   margin-bottom: 0;
-  background-color: #f74545;
+  background-color: #F8e0d3;
   padding: 20px 0;
 }
 
 .custom-navbar .navbar-brand {
-  color: #F2dae1;
+  color: #ffffff;
   font-family: Dancing Script;
   font-weight: normal;
   font-size: 40px;
@@ -288,7 +288,7 @@ a:hover, a:active, a:focus {
 .custom-navbar .nav li a {
   font-size: 14px;
   font-weight: normal;
-  color: #F2dae1;
+  color: #ffffff;
   letter-spacing: 0.5px;
   -webkit-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s;
@@ -345,7 +345,7 @@ a:hover, a:active, a:focus {
     background: 0 0; 
   }
   .custom-navbar.top-nav-collapse {
-    background: #f74545;
+    background: #F8e0d3;
     padding: 15px 0;
   }
 }
@@ -370,7 +370,7 @@ a:hover, a:active, a:focus {
 }
 
 #home h1 {
-  color: #F2dae1;
+  color: #ffffff;
   font-size: 8em;
   line-height: 1.5em;
 }
